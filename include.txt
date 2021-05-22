@@ -18,3 +18,7 @@ https://github.com/dsccommunity
 https://github.com/EvotecIT
 https://github.com/nohwnd
 https://github.com/rkeithhill
+https://github.com/KevinMarquette/PSGraph
+https://github.com/loanDepot/SnowSQL
+https://github.com/loanDepot/TFVC
+https://github.com/loanDepot/VsoLoggingCommands
