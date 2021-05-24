@@ -22,3 +22,5 @@ https://github.com/KevinMarquette/PSGraph
 https://github.com/loanDepot/SnowSQL
 https://github.com/loanDepot/TFVC
 https://github.com/loanDepot/VsoLoggingCommands
+https://github.com/steveL-MSFT/poshchan-bot
+https://github.com/powershell/crescendo
